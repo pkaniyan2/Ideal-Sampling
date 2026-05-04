@@ -261,4 +261,5 @@ plt.show()
 Output Waveform
 image
 Results
+
 Thus Experimental verification of Signal sampling using various types is verified.
